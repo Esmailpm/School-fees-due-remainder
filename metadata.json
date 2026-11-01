@@ -1,0 +1,6 @@
+{
+  "name": "Shiksha Margdarshan Kendra - Fees & Attendance",
+  "description": "Mobile-friendly fees tracking, WhatsApp reminders, and daily attendance app for Play Group, Jr. KG, and Sr. KG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
